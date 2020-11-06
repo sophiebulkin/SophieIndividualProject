@@ -1,9 +1,9 @@
 def runtime():
-    greeting = "Hey, Hey, Hey!"
-    name = "Repl"
+    greeting = "WELCOME TO MY PROJECT!"
+    name = "Repl last project"
     doa = "October 30"
-    job = "Runtime Link"
-    embed = "https://python-hello-series.jmort1021.repl.run"
+    job = "link to project"
+    embed = "https://repl.it/join/npotjxlx-aditiakella"
     info = {"greeting": greeting, "name": name, "doa": doa, "job": job, "embed": embed}
     return info
 
@@ -17,11 +17,11 @@ def planning():
     return info
 
 def journal():
-    greeting = "Hey!"
-    name = "Google Doc"
+    greeting = "SOPHIE & CARTER PAIR SHARE"
+    name = "pair share journal"
     doa = "October 16"
-    job = "Journal Record"
-    embed = "https://docs.google.com/document/d/1Om-4ns6kmzePFvCB2WAyXArEHLUvKVWcQ7jVwswtX-0/edit"
+    job = "record activities and progress daily"
+    embed = "https://docs.google.com/document/d/1RatYt0V-7duqtM0YuP8SuM_X90_fCG4qy2-H8HeBHvU/edit?usp=sharing"
     info = {"greeting": greeting, "name": name, "doa": doa, "job": job, "embed": embed}
     return info
 
@@ -35,9 +35,9 @@ def playground():
     return info
 
 def code():
-    greeting = "Code, Code, Code!"
-    name = "Gist"
-    doa = "October 2"
+    greeting = "Code!"
+    name = "example of code"
+    doa = "2nd project"
     job = "Code Sample"
     gist = "https://gist.github.com/jm1021/cfb277c7357e02fcb4123a6c7429a5c1.js"
     info = {"greeting": greeting, "name": name, "doa": doa, "job": job, "gist": gist}
